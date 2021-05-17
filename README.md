@@ -10,4 +10,4 @@ Hello, welcome to my GitHub profile!
 
 ## Contact me
 * ✉️ | E-Mail: [farish.irfan_0905@outlook.com]('mailto:farish.irfan_0905@outlook.com' 'Email')
-* 🎮 | Discord: [Farsh#7349]('dsc.bio/farsh' 'Discord')
+* 🎮 | Discord: [Farsh#7349]('https://dsc.bio/farsh' 'Discord')
