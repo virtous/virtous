@@ -9,7 +9,7 @@ Hello, welcome to my GitHub profile!
 * 💻 | I know JavaScript, HTML, CSS, TypeScript, SQL, Rust, Python, Bash
 
 ## My GitHub statistics
-![Farish's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarishIrfan&show_icons=true&theme=tokyonight&count_private=true)
+![Farish's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtous&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Contact me
 * ✉️ | E-Mail: [farish.irfan_0905@outlook.com](mailto:farish.irfan_0905@outlook.com 'Email')
