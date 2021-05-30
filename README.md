@@ -13,5 +13,5 @@ Hello, welcome to my GitHub profile!
 ![Farish's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtous&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Contact me
-* ✉️ | E-Mail: [farish.irfan_0905@outlook.com](mailto:farish.irfan_0905@outlook.com 'Email')
-* 🎮 | Discord: [V!RTØUS#7349](https://dsc.bio/virtous 'Discord')
+* ✉️ | My [email](mailto:farish.irfan_0905@outlook.com 'Email - farish.irfan_0905@outlook.com')
+* 🎮 | My [Discord](https://dsc.bio/virtous 'Discord - Virtous#7349')
